@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+app/uploads/*
+!app/uploads/.gitkeep
+
+# Local persistent database
+app/data/*.db
