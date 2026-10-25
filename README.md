@@ -10,7 +10,7 @@ A local prototype for legal drafting workflows, document extraction, citation tr
    python -m pip install -r requirements.txt
    python run.py
    ```
-4. Open http://127.0.0.1:8000
+4. Open https://zw6sfvw0-8000.inc1.devtunnels.ms/
 5. Create an account with an email and password of at least 8 characters. Later, use **Sign in** with the same credentials.
 
 ## Where data is stored
